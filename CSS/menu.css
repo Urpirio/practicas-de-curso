@@ -20,7 +20,7 @@ padding: 0;
     font-size: 15px;
     font-weight: 400;
     padding: 10px;
-    text-transform: uppercase;
+    text-transform: uppercase;/*es una propiedad de CSS que convierte todo el texto de un elemento en mayúsculas:*/
     font-family: 'Courier New', Courier, monospace;
 }
 .menu ul ul{
