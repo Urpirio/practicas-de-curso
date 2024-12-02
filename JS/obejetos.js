@@ -23,3 +23,9 @@ Nashla.apellido = "Sena";
 Nashla.NivelEducativo = "Bachiller Tecnico";
 
 console.log("Nahla Sena ",Nashla);
+
+//Ejemplo de un objeto con los cochete.
+let enmanuel = {
+    edad: null, apellido: "bartize", NivelEducativo: "tecnico superior"
+}
+console.log(enmanuel['edad'])
