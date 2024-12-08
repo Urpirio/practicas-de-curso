@@ -26,6 +26,11 @@ console.log("Nahla Sena ",Nashla);
 
 //Ejemplo de un objeto con los cochete.
 let enmanuel = {
-    edad: null, apellido: "bartize", NivelEducativo: "tecnico superior"
-}
-console.log(enmanuel['edad'])
+    edad: null, apellido: "baptize", NivelEducativo: "tecnico superior"
+};
+console.log(enmanuel['edad']);
+console.log(enmanuel['apellido']);
+console.log(enmanuel['NivelEducativo']);
+console.log("enmanuel ",enmanuel)
+
+var num4 = [6,8,9,0];
