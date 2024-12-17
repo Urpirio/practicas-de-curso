@@ -1,0 +1,20 @@
+div{
+    background-color: blue;
+    width: 100%;
+    min-width: 400px;
+    max-width: 1000px;
+    height: 100%;
+    min-width: 400px;
+    max-width: 1000px;
+    color: aliceblue;
+}
+.contenedor{
+    background-color:red;
+    width: 100%;
+    min-width: 400px;
+    max-width: 1000px;
+    height: 100%;
+    min-width: 400px;
+    max-width: 1000px;
+    color: aliceblue;
+}

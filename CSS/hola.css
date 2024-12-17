@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+section{
+    width:100%;
+    display: flex;
+    justify-content: right;
+}
+.hola{
+height: 200px;
+width: 200px;
+border: 10px solid black;
+background-color: red;
+align-items: center;
+align-content: center;
+
+
+}
